@@ -17,7 +17,7 @@ Create and activate a new conda environment: <br>
 
 Install the packages: <br>
 `conda install numpy` <br>
-`conda install scikit-learn` <br
+`conda install scikit-learn` <br>
 `conda install pandas` <br>
 `conda install matplotlib`<br>
 `conda install nltk`<br>
